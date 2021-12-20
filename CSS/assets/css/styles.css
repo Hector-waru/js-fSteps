@@ -1,0 +1,28 @@
+/* Mandar a llamar mi CSS */
+.Encabezado{
+    /* selector{cambios} */
+    /* Comentarios en CSS */
+    /* tamaño de fuente */
+    font-size: 72px;
+    /* color de fuente + space */
+    color: hsla(106, 100%, 74%, 1);
+    /* color de fondo */
+    background-color: indigo;
+    /* Alineacion de texto */
+    text-align: center;
+    /* cambiar letras */
+    text-transform: capitalize;
+
+}
+/* fondo del html */
+body{
+   background-color: hsla(288, 100%, 49%, 1);
+}
+p{
+    color: rgb(222, 233, 77); 
+    background-color: darkblue;
+}
+p{
+    color: aquamarine;
+    background-color: chocolate;
+}
