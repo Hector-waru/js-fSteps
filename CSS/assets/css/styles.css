@@ -18,6 +18,10 @@
 body{
    background-color: hsla(288, 100%, 49%, 1);
 }
+.texto{
+    color: white;
+    background-color: black;
+}
 p{
     color: rgb(222, 233, 77); 
     background-color: darkblue;
@@ -25,4 +29,8 @@ p{
 p{
     color: aquamarine;
     background-color: chocolate;
+}
+#texto {
+    color: blueviolet;
+    background-color: coral;
 }

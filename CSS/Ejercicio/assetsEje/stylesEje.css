@@ -1,0 +1,24 @@
+/* Ah migo  */
+body{
+    background-color: rgb(44,131,83);
+    }
+.italic{
+    color: whitesmoke;
+    font-style: italic;
+    font-size: smaller;
+}
+.pollitoA{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: palegoldenrod;
+    font-size: large;
+}
+.AmarilloF{
+    font-family: inherit;
+    color: rgb(212, 199, 9);
+    font-size: larger;
+}
+.Projo{
+    font-family: sans-serif;
+    color: red;
+    font-size: larger;
+}
