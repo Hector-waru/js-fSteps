@@ -1,0 +1,26 @@
+body{
+    background-color: lightsteelblue;
+}
+.Encabezado{
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 35px;
+    color: red;
+
+}
+.subTitulo{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 30px;
+
+}
+.resaltado1{
+background-color: white;
+color: seagreen;
+}
+.resaltado2{
+color: rgb(201, 169, 63);
+}
+.resaltado3{
+color: rgba(250, 235, 101, 0.945);
+}

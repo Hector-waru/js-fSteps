@@ -1,0 +1,42 @@
+body{
+   
+   /*  background-image: url("https://www.alertageekchile.cl/wp-content/uploads/2021/10/60c1a6b63b00005700ec2745.jpeg");
+                  : url(../img_rec/imagen.jpg) 
+    background-repeat: no repeat 
+    background-size: 200px;*/
+}
+/* aplica la fuentes que tenga disponible el computador */
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.subtitle{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*  clase caja  */
+.caja{
+    width: 300px;
+    height: 300px;
+    font-size: 30px;
+    /* Se pueden agregar margenes en 4 posiciones  */
+   /* margen exterior */
+    margin: 20px;
+    /* margen interior */
+    padding: 20px;
+    border-radius: 35px;
+
+}
+/* Colores de las cajas */
+.roja{
+   /* background-color: crimson;*/
+   /* grosor - tipo - color, tambien en determinada posicion border-top */
+   border: 5px solid red;
+}
+.verde{
+    /*background-color: darkgreen;*/
+    border: 5px solid olivedrab;
+}
+.azul{
+    /*background-color: dodgerblue;*/
+    border: 5px solid navy;
+}
