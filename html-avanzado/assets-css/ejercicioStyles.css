@@ -1,0 +1,17 @@
+h4{
+    color: snow;
+}
+label{
+    margin-left: 15%;
+    color: snow;
+}
+input{
+    border: 2px solid red;
+}
+.Borde{
+    height: 400px;
+    width: 600px;
+    background-color: seagreen;
+    border-radius: 10px;
+    border: 10px solid skyblue;
+}

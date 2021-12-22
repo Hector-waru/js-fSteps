@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <link rel="stylesheet" href="assets-css/styles.css" type="text/css">
+    <title>Formularios</title>
+</head>
+<body>
+    <!-- Foemulario  -->
+    <form>
+        <!-- recuadro para poner texto -->
+        <input type="text">
+        <input type="date">
+        <input type="color">
+        <input type="password">
+        <input type="file">
+        <input type="checkbox">
+        <input type="radio">
+        <input type="submit">
+        <input type="button">
+    </form>
+    <h1>formulario label </h1>
+    <form class="formulario">
+        <div >
+        <label for="Nombre">Nombre</label>
+        <input id="Nombre" type="text" name="Nombre" placeholder="Inserte nombre">
+        </div>
+        <div>
+        <label for="apellido">apellido</label>
+        <input class="clase_nombre" id="apellido" type="text" name="apellido" placeholder="Inserte apellio">
+        </div>
+        <div class="password">
+            <label for="password">Contraseña</label>
+            <input id="password" type="password" name="password" placeholder="Aqui va contraseña">
+        </div>
+     
+        <div class="enviar">
+
+            <input type="button" value="enviar">
+
+        </div>
+    </form>
+       
+        <!-- organiza codigo de mejor manera -->
+        <form>
+            <fieldset>
+                <legend>
+                    Ingresa numero
+                </legend>
+                <label for="numero">Numero</label>
+                <input id="numero" type="number" name="numero" min="18" max="50">
+            <label for="rango">Rango</label>
+            <input id="rango" type="range" name="rango">
+            <div class="enviar">
+                <input type="submit">
+           </div>    
+        </fieldset>
+           
+           </form> 
+        <div class="correo">
+            <label for="correo">Correo</label>
+            <input id="correo" name="correo" type="email">
+
+        </div>
+        
+</body>
+</html>

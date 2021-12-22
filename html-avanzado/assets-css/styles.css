@@ -1,0 +1,13 @@
+.formulario{
+    border: 5px solid navy;
+}
+.clase_nombre{
+    background-color: palegreen;
+}
+.password{
+    
+        border: 5px dashed navy;
+}
+.primer{
+    width: 150px;
+}
