@@ -1,0 +1,19 @@
+/* Se importa  y se tiene menos saturado el head*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=Pushster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+p{
+    font-family: 'Pushster', cursive;
+    font-size: 900%;
+
+}
+h1{
+    font-family: 'Oooh Baby', cursive;
+}
+h3{
+    /* acá se pone el css a utilizar del import*/
+    font-family: 'Open Sans', sans-serif;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+}
