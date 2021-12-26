@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap');
+
+body{
+    background-color: lightgreen;
+}
+table, tr, th, td{
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+     font-size: 50px;
+}
+div{
+    margin-left: 36%;
+}
+.bknaranja{
+    background-color: lightsalmon;
+}
+.bkverde{
+    background-color: lime;
+}
+.bkblack{
+    background-color: black;
+}
+.projo{
+    color: red;
+}
+.pgratis{
+    font-family: 'Vujahday Script', cursive;
+    
+}
+.namarillo{
+    color: yellow;
+}
